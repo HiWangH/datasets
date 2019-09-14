@@ -1,0 +1,25 @@
+An assignment mixed integer linear programming model is formulated, which solves the problem of
+how to combine orders in delivery to save the total transportation cost when orders with both single and multiple
+destinations exist.
+
+This paper
+investigates the pairing of containers/orders in drayage transportation from the perspective of delivering paired
+containers on 40-ft truck and/or individual containers on 20-ft truck,
+
+An assignment mixed integer linear programming model is formulated 
+the proposed model is that it can be implemented on different variants of the container drayage problem
+The proposed model can be solved to optimality efficiently (within half hour) for over 300 orders.
+assignment problem
+
+be solved efficiently by commercial
+software for instances having 63 containers
+
+
+propose an optimization model for
+the pairing of containers in drayage transportation (PCDT).
+This model considers the joint delivery of import containers
+only
+
+
+discharging
+the container from the truck and returning to collect it later
